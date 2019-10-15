@@ -1,5 +1,3 @@
-# Sample NodeJS files for booking app
-
 ## Setup
 
 ```
@@ -7,7 +5,7 @@ sudo service mongod start
 npm install
 node src/index.js
 ```
-**To check if MongoDB is up and running**
+**To check if MongoDB is up and running:**
 ```
 sudo cat /var/log/mongodb/mongod.log
 ```
